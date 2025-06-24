@@ -8,7 +8,7 @@
 
 ## 🫀 **What is this project?**
 
-This is an **Machine Learning Heart Disease Prediction Model** that uses deep learning to assess cardiovascular risk.
+This is a **Machine Learning Heart Disease Prediction Model** that uses deep learning to assess cardiovascular risk.
 
 ✅ Combines data from:
 
